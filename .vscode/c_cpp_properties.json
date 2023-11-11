@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/peerawit/ros2_c/install/polygon_plugins/include/**",
+        "/home/peerawit/ros2_c/install/polygon_base/include/**",
+        "/home/peerawit/ros2_ws/install/action_tutorials_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/peerawit/ros2_c/src/cpp_parameter_event_handler/include/**",
+        "/home/peerawit/ros2_c/src/param_c/include/**",
+        "/home/peerawit/ros2_c/src/polygon_base/include/**",
+        "/home/peerawit/ros2_c/src/polygon_plugins/include/**",
+        "/home/peerawit/ros2_c/src/pub_sub_c/include/**",
+        "/home/peerawit/ros2_c/src/ser_cli_c/include/**",
+        "/home/peerawit/ros2_c/src/test/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
